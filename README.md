@@ -2,7 +2,10 @@
 
 ### This is a GitHub repository for a combined suite of apps that enable faking a virtual Camera in touch designer with CamTwist and Syphon for use with Zoom or other videoconferencing services.
 
-## To Install
+***Vimeo Tutorial***: https://vimeo.com/402305518/ba44e59fea
+***If you want to play around with code, open TouchTutorial.png to get a brief look at how to manipulate the TouchDesigner patch.***
+
+## To Install Essentials
 1. Install CamTwist_3.4.3.dmg if on MacOS. If on Windows, for right now I'm trying to find alternatives.
 2. Install a non-Commercial copy of TouchDesigner from the TouchDesigner website.
 3. Open the most recent ForumVidExample.toe file, it will be the one with the highest digit after it.
