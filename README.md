@@ -15,4 +15,4 @@ This is a GitHub repository for a combined suite of apps that enable faking a vi
 7. If you would like to record an improvisation's video stream, download the SyphonRecorder.zip, unpack, and install it. This simple interface allows you to quick record any Syphon steam you have.
 
 ## Manipulating the Touch Patch and Addding New Video Effects
-[Manipulating the Touch Patch](./TouchTutorial.png)
+![Manipulating the Touch Patch](./TouchTutorial.png)
